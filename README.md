@@ -12,3 +12,8 @@ Leveraging the power of websockets and htmx using Go, I made a Server where all 
 2. `cd go-cpu-info-htmx-ws`
 3. Run `go run cmd/main.go` in your terminal
 4. Open `localhost:8080` in your browser and you have your own hardware monitor details!
+
+## Libraries Used
+
+1. Gopsutil - https://github.com/shirou/gopsutil
+2. Websockets - https://github.com/coder/websocket
